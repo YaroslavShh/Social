@@ -1,0 +1,8 @@
+.container {
+    grid-area: 2/2/2/2;
+    background-color: blue;
+}
+
+.container img {
+    width: 100px;
+}
